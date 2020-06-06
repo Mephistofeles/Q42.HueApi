@@ -19,7 +19,7 @@ namespace Q42.HueApi
     /// Gets or sets the colors based on CIE 1931 Color coordinates.
     /// </summary>
     [DataMember (Name = "xy")]
-    public double[] ColorCoordinates { get; set; }
+    public double[]? ColorCoordinates { get; set; }
 
     /// <summary>
     /// Gets or sets the brightness 0-255.
