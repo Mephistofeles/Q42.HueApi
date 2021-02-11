@@ -1,13 +1,7 @@
-using JeffWilcox.Utilities.Silverlight;
-using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Q42.HueApi.Models;
 using System;
-using System.Collections.Generic;
-using System.Collections.Specialized;
-using System.Linq;
 using System.Net.Http;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace Q42.HueApi

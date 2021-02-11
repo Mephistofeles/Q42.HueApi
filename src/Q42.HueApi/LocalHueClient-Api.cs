@@ -3,10 +3,7 @@ using Q42.HueApi.Interfaces;
 using Q42.HueApi.Models;
 using Q42.HueApi.Models.Bridge;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net.Http;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace Q42.HueApi

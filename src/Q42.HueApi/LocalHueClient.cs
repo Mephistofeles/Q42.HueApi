@@ -1,18 +1,6 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Text;
-using System.Threading.Tasks;
-using Newtonsoft.Json.Linq;
-using Q42.HueApi.Extensions;
 using Q42.HueApi.Interfaces;
-using Newtonsoft.Json;
-using System.Globalization;
 using System.Net.Http;
-using Q42.HueApi.Models.Groups;
-using Q42.HueApi.Models;
-using Newtonsoft.Json.Serialization;
 
 namespace Q42.HueApi
 {

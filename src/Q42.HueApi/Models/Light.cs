@@ -2,7 +2,6 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 using Q42.HueApi.Models.Gamut;
 using System;
-using System.Collections.Generic;
 using System.Runtime.Serialization;
 
 namespace Q42.HueApi

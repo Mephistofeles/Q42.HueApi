@@ -1,11 +1,7 @@
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using System;
-using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Q42.HueApi.Models.Groups
 {
@@ -28,8 +24,8 @@ namespace Q42.HueApi.Models.Groups
         return this.Where(x => x.Error != null);
       }
     }
-    
-    
+
+
   }
 
   public class DefaultHueResult

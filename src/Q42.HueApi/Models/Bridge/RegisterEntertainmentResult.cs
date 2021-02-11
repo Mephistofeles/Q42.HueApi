@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Text;
-
 namespace Q42.HueApi.Models.Bridge
 {
   public class RegisterEntertainmentResult

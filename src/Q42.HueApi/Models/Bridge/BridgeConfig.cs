@@ -1,8 +1,6 @@
 using System.Runtime.Serialization;
 using Newtonsoft.Json;
-using Newtonsoft.Json.Converters;
 using System.Collections.Generic;
-using Q42.HueApi.Models;
 using System;
 using Q42.HueApi.Models.Bridge;
 using Q42.HueApi.Converters;

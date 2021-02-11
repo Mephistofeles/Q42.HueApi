@@ -3,13 +3,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
-using System.Text;
 using System.Threading.Tasks;
-using Q42.HueApi.Extensions;
 using Newtonsoft.Json;
 using Q42.HueApi.Models.Groups;
 using Q42.HueApi.Models;
-using System.Dynamic;
 using Q42.HueApi.Interfaces;
 
 namespace Q42.HueApi

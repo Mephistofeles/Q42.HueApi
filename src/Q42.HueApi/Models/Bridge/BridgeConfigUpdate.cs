@@ -1,7 +1,4 @@
 ﻿using System.Runtime.Serialization;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Converters;
-using System.Collections.Generic;
 using System;
 
 namespace Q42.HueApi
